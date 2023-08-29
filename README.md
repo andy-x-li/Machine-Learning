@@ -27,7 +27,7 @@ To run this code: <br>
 > **1)** Run via cmd line `python Kernel_Regression.py` <br>
 > **2)** One-by-one, observe the graphs that pop up
 
-**Note**: *The first window you will see displays two graphs side by side that are almost identical. The graph on the left represents the training data we randomly generated. The graph on the right represents the data predicted by our model. The next window will show this done again with some generated testing data. This process is then repeated for different sigma values. After eight windows, you should see a summary graph showing how sigma value corresponds with error. * 
+**Note**: *The first window you will see displays two graphs side by side that are almost identical. The graph on the left represents the training data we randomly generated. The graph on the right represents the data predicted by our model. The next window will show this done again with some generated testing data. This process is then repeated for different sigma values. After eight windows, you should see a summary graph showing how sigma value corresponds with error.*
 
 Original training data and predicted training data: 
 <p align="center">
