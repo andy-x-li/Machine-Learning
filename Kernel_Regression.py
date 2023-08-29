@@ -7,13 +7,11 @@ import sys
 
 def cal_kernel(sigma):
   """
-  cal_kernel takes in a sigma value and solves for K and alpha from the 
-  training data (X). It then estimates the predicted label (y2) using K and alpha. 
-  Afterwards, it estimates the error between the predicted label (y2) and the training data (y). 
-  cal_kernel can then, calculate K with 
-  the test data and estimate the test data's predicted label (ytest2).
-  The error between the predicted label (ytest2) and the test data (ytest) 
-  is then calculated. 
+  cal_kernel takes in a sigma value and solves for K and alpha from the training data (X). It then 
+  estimates the predicted label (y2) using K and alpha. Afterwards, it estimates the error between 
+  the predicted label (y2) and the training data (y). cal_kernel can then, calculate K with the test 
+  data and estimate the test data's predicted label (ytest2). The error between the predicted label 
+  (ytest2) and the test data (ytest) is then calculated. 
   """
   print("sigma^2:",sigma)
   n = 200
