@@ -1,5 +1,5 @@
 # Machine-Learning
-A collection of Machine Learning Projects from my time at University.
+One of my machine learning projects from my time at university.
 
 Kernel Regression is a technique used in machine learning to address the nonlinearity present in some datasets. In `python Kernel_Regression.py`, I used a Gaussian kernel to train a kernel ridge regression classifier (K). K is calculated using the following equation:
 
