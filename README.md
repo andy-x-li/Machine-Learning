@@ -1,7 +1,7 @@
 # Machine-Learning
 One of my machine learning projects from my time at university.
 
-Kernel Regression is a technique used in machine learning to address the nonlinearity present in some datasets. In `python Kernel_Regression.py`, I used a Gaussian kernel to train a kernel ridge regression classifier (K). K is calculated using the following equation:
+Kernel Regression is a technique used in machine learning to address the nonlinearity present in some datasets. In `Kernel_Regression.py`, I used a Gaussian kernel to train a kernel ridge regression classifier (K). K is calculated using the following equation:
 
 <p align="center">
   <img width="260" alt="Screen Shot 2023-08-28 at 10 03 14 PM" src="https://github.com/andy-x-li/Machine-Learning/assets/125074849/14698757-fb82-417b-8b94-4eec28b3eefb">
